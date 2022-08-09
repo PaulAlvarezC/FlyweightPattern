@@ -1,0 +1,15 @@
+/Volumes/iGatoAlvarez/CondorSoft/Apps/FlyweightPattern/Flyweight/Flyweight/bin/Debug/net6.0/Flyweight
+/Volumes/iGatoAlvarez/CondorSoft/Apps/FlyweightPattern/Flyweight/Flyweight/bin/Debug/net6.0/Flyweight.deps.json
+/Volumes/iGatoAlvarez/CondorSoft/Apps/FlyweightPattern/Flyweight/Flyweight/bin/Debug/net6.0/Flyweight.runtimeconfig.json
+/Volumes/iGatoAlvarez/CondorSoft/Apps/FlyweightPattern/Flyweight/Flyweight/bin/Debug/net6.0/Flyweight.dll
+/Volumes/iGatoAlvarez/CondorSoft/Apps/FlyweightPattern/Flyweight/Flyweight/bin/Debug/net6.0/Flyweight.pdb
+/Volumes/iGatoAlvarez/CondorSoft/Apps/FlyweightPattern/Flyweight/Flyweight/obj/Debug/net6.0/Flyweight.csproj.AssemblyReference.cache
+/Volumes/iGatoAlvarez/CondorSoft/Apps/FlyweightPattern/Flyweight/Flyweight/obj/Debug/net6.0/Flyweight.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/iGatoAlvarez/CondorSoft/Apps/FlyweightPattern/Flyweight/Flyweight/obj/Debug/net6.0/Flyweight.AssemblyInfoInputs.cache
+/Volumes/iGatoAlvarez/CondorSoft/Apps/FlyweightPattern/Flyweight/Flyweight/obj/Debug/net6.0/Flyweight.AssemblyInfo.cs
+/Volumes/iGatoAlvarez/CondorSoft/Apps/FlyweightPattern/Flyweight/Flyweight/obj/Debug/net6.0/Flyweight.csproj.CoreCompileInputs.cache
+/Volumes/iGatoAlvarez/CondorSoft/Apps/FlyweightPattern/Flyweight/Flyweight/obj/Debug/net6.0/Flyweight.dll
+/Volumes/iGatoAlvarez/CondorSoft/Apps/FlyweightPattern/Flyweight/Flyweight/obj/Debug/net6.0/refint/Flyweight.dll
+/Volumes/iGatoAlvarez/CondorSoft/Apps/FlyweightPattern/Flyweight/Flyweight/obj/Debug/net6.0/Flyweight.pdb
+/Volumes/iGatoAlvarez/CondorSoft/Apps/FlyweightPattern/Flyweight/Flyweight/obj/Debug/net6.0/Flyweight.genruntimeconfig.cache
+/Volumes/iGatoAlvarez/CondorSoft/Apps/FlyweightPattern/Flyweight/Flyweight/obj/Debug/net6.0/ref/Flyweight.dll
